@@ -1,10 +1,11 @@
 ---
-coverY: -8.8339222614841
+cover: .gitbook/assets/SILVERBACK.jpg
+coverY: 0
 layout:
   width: default
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: false
   description:
