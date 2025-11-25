@@ -1,0 +1,55 @@
+# $BACK Token
+
+The native token powering the Silverback ecosystem.
+
+---
+
+## Overview
+
+**$BACK** is the governance and utility token of Silverback DEX, launched through Virtuals Protocol. It represents ownership in the Silverback ecosystem and provides access to revenue sharing from DEX operations and AI trading profits.
+
+**Ticker:** $BACK
+
+**Silverback has your BACK.**
+
+---
+
+## Core Utility
+
+### Revenue Sharing
+
+$BACK holders benefit from multiple revenue streams:
+
+- **DEX Protocol Fees** — Portion of swap fees across all pools
+- **Treasury Trading Profits** — Returns from Silverback AI agent's trading
+- **Cross-Chain Arbitrage** — Profits from multi-network opportunities
+
+### Staking Rewards
+
+Stake $BACK to earn rewards from protocol revenue. Rewards are distributed through buybacks that fill staking pools, creating sustainable yield without inflation.
+
+### Governance
+
+$BACK holders participate in protocol decisions:
+- Fee parameter adjustments
+- New network deployments
+- Treasury allocation
+- Protocol upgrades
+
+---
+
+## In This Section
+
+| Page | Description |
+|------|-------------|
+| [Tokenomics](tokenomics.md) | Supply, distribution, and mechanics |
+| [Staking & Rewards](staking-rewards.md) | How to stake and earn |
+| [Revenue Sharing](revenue-sharing.md) | How profits flow to holders |
+
+---
+
+## Quick Links
+
+- **Buy $BACK**: [Virtuals Protocol](https://virtuals.io)
+- **Contract Address**: See [Contract Addresses](../resources/contract-addresses.md)
+- **Chart**: Coming soon
