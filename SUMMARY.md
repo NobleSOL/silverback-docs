@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Silverback](README.md)
+* [🦍 Welcome to Silverback](README.md)
 
 ## Getting Started
 
