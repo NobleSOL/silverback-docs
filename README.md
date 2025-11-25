@@ -1,11 +1,6 @@
 ---
-cover: .gitbook/assets/SILVERBACK.jpg
-coverY: 0
 layout:
   width: default
-  cover:
-    visible: true
-    size: hero
   title:
     visible: false
   description:
@@ -20,6 +15,9 @@ layout:
     visible: true
 ---
 
-# Untitled
+# SILVERBACK DEFI
+
+<figure><img src=".gitbook/assets/SILVERBACK.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/silverback token.PNG" alt=""><figcaption></figcaption></figure>
+
