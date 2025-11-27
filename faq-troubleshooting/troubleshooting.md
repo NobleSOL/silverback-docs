@@ -235,7 +235,7 @@ If these solutions don't resolve your issue:
 
 1. **Search our FAQ** — [FAQ Page](faq.md)
 2. **Ask on Discord** — Community support (coming soon)
-3. **Tweet at us** — [@AgentSilverback](https://twitter.com/AgentSilverback)
+3. **Tweet at us** — [@SilverbackDefi](https://x.com/SilverbackDefi)
 4. **Open GitHub Issue** — Open Soon
 
 **When reporting issues, include:**

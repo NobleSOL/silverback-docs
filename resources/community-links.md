@@ -6,7 +6,7 @@ Connect with the Silverback community.
 
 ## Official Channels
 
-### Twitter / X
+### &#x20;X
 
 [**@SilverbackDefi**](https://x.com/SilverbackDefi)
 
