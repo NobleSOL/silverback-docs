@@ -26,11 +26,11 @@ Verified smart contract addresses for Silverback.
 
 ### DEX Contracts
 
-| Contract   | Address                                                                                                                          |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Aggregator | [<sup>0x565cBf0F3eAdD873212Db91896e9a548f6D64894</sup>](https://basescan.org/address/0x565cbf0f3eadd873212db91896e9a548f6d64894) |
-| Factory    | [<sup>0x9cd714C51586B52DD56EbD19E3676de65eBf44Ae</sup>](https://basescan.org/address/0x9cd714C51586B52DD56EbD19E3676de65eBf44Ae) |
-| Router     | [<sup>0x07d00debE946d9183A4dB7756A8A54582c6F205b</sup>](https://basescan.org/address/0x07d00debe946d9183a4db7756a8a54582c6f205b) |
+| Contract   | Address                                                                                                               |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- |
+| Aggregator | [0x565cBf0F3eAdD873212Db91896e9a548f6D64894](https://basescan.org/address/0x565cbf0f3eadd873212db91896e9a548f6d64894) |
+| Factory    | [0x9cd714C51586B52DD56EbD19E3676de65eBf44Ae](https://basescan.org/address/0x9cd714C51586B52DD56EbD19E3676de65eBf44Ae) |
+| Router     | [0x07d00debE946d9183A4dB7756A8A54582c6F205b](https://basescan.org/address/0x07d00debe946d9183a4db7756a8a54582c6f205b) |
 
 ***
 
@@ -46,9 +46,9 @@ Verified smart contract addresses for Silverback.
 
 ## Virtuals Protocol
 
-| Contract           | Address                                                                                                                          |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| SIlverback - $BACK | [<sup>0x558881c4959e9cf961a7E1815FCD6586906babd2</sup>](https://basescan.org/address/0x558881c4959e9cf961a7E1815FCD6586906babd2) |
+| Contract           | Address                                                                                                               |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| SIlverback - $BACK | [0x558881c4959e9cf961a7E1815FCD6586906babd2](https://basescan.org/address/0x558881c4959e9cf961a7E1815FCD6586906babd2) |
 
 ***
 
