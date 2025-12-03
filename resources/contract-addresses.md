@@ -18,37 +18,19 @@ Verified smart contract addresses for Silverback.
 
 ### $BACK Token
 
-| Property | Value                            |
-| -------- | -------------------------------- |
-| Contract | _To be added after launch_       |
-| Network  | Base (Chain ID: 8453)            |
-| Explorer | [BaseScan](https://basescan.org) |
+<table><thead><tr><th width="245">Property</th><th>Value</th></tr></thead><tbody><tr><td>Contract</td><td><a href="https://basescan.org/address/0x558881c4959e9cf961a7E1815FCD6586906babd2">0x558881c4959e9cf961a7E1815FCD6586906babd2</a></td></tr><tr><td>Network</td><td>Base (Chain ID: 8453)</td></tr><tr><td>Explorer</td><td><a href="https://basescan.org/token/0x558881c4959e9cf961a7E1815FCD6586906babd2">BaseScan</a></td></tr></tbody></table>
 
 ### DEX Contracts
 
-| Contract   | Address                                                                                                               |
-| ---------- | --------------------------------------------------------------------------------------------------------------------- |
-| Aggregator | [0x565cBf0F3eAdD873212Db91896e9a548f6D64894](https://basescan.org/address/0x565cbf0f3eadd873212db91896e9a548f6d64894) |
-| Factory    | [0x9cd714C51586B52DD56EbD19E3676de65eBf44Ae](https://basescan.org/address/0x9cd714C51586B52DD56EbD19E3676de65eBf44Ae) |
-| Router     | [0x07d00debE946d9183A4dB7756A8A54582c6F205b](https://basescan.org/address/0x07d00debe946d9183a4db7756a8a54582c6f205b) |
+<table><thead><tr><th width="244">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Aggregator</td><td><a href="https://basescan.org/address/0x565cbf0f3eadd873212db91896e9a548f6d64894">0x565cBf0F3eAdD873212Db91896e9a548f6D64894</a></td></tr><tr><td>Factory</td><td><a href="https://basescan.org/address/0x9cd714C51586B52DD56EbD19E3676de65eBf44Ae">0x9cd714C51586B52DD56EbD19E3676de65eBf44Ae</a></td></tr><tr><td>Router</td><td><a href="https://basescan.org/address/0x07d00debe946d9183a4db7756a8a54582c6f205b">0x07d00debE946d9183A4dB7756A8A54582c6F205b</a></td></tr></tbody></table>
 
 ***
 
 ## Keeta Network
 
-| Contract          | Address                                                                                                                                                                            |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Silverback Router | [keeta\_aabwgiqyij4scwktdoczzvhpi33btieeses5sezeqzqmpi5ik76ttyegwuvfsai](https://explorer.keeta.com/account/keeta_aabwgiqyij4scwktdoczzvhpi33btieeses5sezeqzqmpi5ik76ttyegwuvfsai) |
-| Treasury          | [keeta\_aabaolle2k3hceayy4vkyw7smgl35o5wbqeebt2fibyx5sxxodneqb2rmwqkjci](https://explorer.keeta.com/account/keeta_aabaolle2k3hceayy4vkyw7smgl35o5wbqeebt2fibyx5sxxodneqb2rmwqkjci) |
-|                   |                                                                                                                                                                                    |
+<table><thead><tr><th width="244">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Silverback Router</td><td><a href="https://explorer.keeta.com/account/keeta_aabwgiqyij4scwktdoczzvhpi33btieeses5sezeqzqmpi5ik76ttyegwuvfsai">keeta_aabwgiqyij4scwktdoczzvhpi33btieeses5sezeqzqmpi5ik76ttyegwuvfsai</a></td></tr><tr><td>Treasury</td><td><a href="https://explorer.keeta.com/account/keeta_aabaolle2k3hceayy4vkyw7smgl35o5wbqeebt2fibyx5sxxodneqb2rmwqkjci">keeta_aabaolle2k3hceayy4vkyw7smgl35o5wbqeebt2fibyx5sxxodneqb2rmwqkjci</a></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 ***
-
-## Virtuals Protocol
-
-| Contract           | Address                                                                                                               |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| SIlverback - $BACK | [0x558881c4959e9cf961a7E1815FCD6586906babd2](https://basescan.org/address/0x558881c4959e9cf961a7E1815FCD6586906babd2) |
 
 ***
 
