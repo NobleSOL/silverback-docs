@@ -46,15 +46,15 @@ sbUSDC is a yield-bearing token. When you deposit USDC, you receive sbUSDC share
 │                           SILVERBACK CONTRACTS                              │
 ├────────────────────────────────────────────────────────────────────────────┤
 │                                                                            │
-│   ┌──────────────┐         ┌──────────────────┐                           │
-│   │   sbUSDC     │         │  MorphoStrategy  │                           │
-│   │   Vault      │◄───────►│                  │                           │
-│   │              │         │  - deposit()     │                           │
-│   │ ERC-4626     │         │  - withdraw()    │                           │
-│   │ - deposit()  │         │  - balanceOf()   │                           │
-│   │ - withdraw() │         │                  │                           │
-│   │ - redeem()   │         │  Calls Morpho    │                           │
-│   └──────────────┘         └────────┬─────────┘                           │
+│   ┌──────────────┐         ┌────────────────────┐                         │
+│   │   sbUSDC     │         │ SilverbackStrategy │                         │
+│   │   Vault      │◄───────►│                    │                         │
+│   │              │         │  - deposit()       │                         │
+│   │ ERC-4626     │         │  - withdraw()      │                         │
+│   │ - deposit()  │         │  - balanceOf()     │                         │
+│   │ - withdraw() │         │                    │                         │
+│   │ - redeem()   │         │  (uses Morpho)     │                         │
+│   └──────────────┘         └─────────┬──────────┘                         │
 │                                     │                                      │
 └─────────────────────────────────────┼──────────────────────────────────────┘
                                       │
@@ -143,7 +143,7 @@ share_price = total_assets / total_supply
 | Contract | Address |
 |----------|---------|
 | sbUSDC Vault | *Coming Soon* |
-| MorphoStrategy | *Coming Soon* |
+| SilverbackStrategy | *Coming Soon* |
 | USDC | `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913` |
 | Morpho Blue | `0xBBBBBbbBBb9cC5e90e3b3Af64bdAF62C37EEFFCb` |
 
@@ -199,7 +199,26 @@ const usdcReceived = await vault.redeem(shares, yourAddress, yourAddress);
 ### Audits
 
 - **Morpho Blue**: Audited by Spearbit, Trail of Bits, Cantina
-- **sbUSDC Vault**: Audit pending
+- **sbUSDC Vault**: Pending external audit
+
+### Test Coverage
+
+The sbUSDC vault has comprehensive test coverage:
+
+| Category | Tests | Status |
+|----------|-------|--------|
+| Vault Core (deposits, withdrawals, yield) | 23 | Passing |
+| Security & Edge Cases | 15 | Passing |
+| **Total** | **38** | **All Passing** |
+
+**Security tests include:**
+- Reentrancy protection
+- Share price manipulation resistance
+- Allowance/approval checks
+- Zero value edge cases
+- Large value handling (overflow protection)
+- Multiple deposit/withdraw cycles
+- Strategy interaction safety
 
 ## FAQ
 
